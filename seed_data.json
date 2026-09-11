@@ -1,0 +1,44 @@
+{
+  "joyo_kanji": [
+    {
+      "id": 1,
+      "character": "一",
+      "meaning": "one",
+      "memory_sentence": "A single stroke represents the number one",
+      "type": "kanji",
+      "frequency": 1
+    },
+    {
+      "id": 2,
+      "character": "二",
+      "meaning": "two",
+      "memory_sentence": "Two horizontal strokes represent the number two",
+      "type": "kanji",
+      "frequency": 2
+    },
+    {
+      "id": 3,
+      "character": "三",
+      "meaning": "three",
+      "memory_sentence": "Three horizontal strokes represent the number three",
+      "type": "kanji",
+      "frequency": 3
+    },
+    {
+      "id": 4,
+      "character": "人",
+      "meaning": "person",
+      "memory_sentence": "A person standing with two legs",
+      "type": "kanji",
+      "frequency": 4
+    },
+    {
+      "id": 5,
+      "character": "火",
+      "meaning": "fire",
+      "memory_sentence": "Flames rising from the fire",
+      "type": "kanji",
+      "frequency": 5
+    }
+  ]
+}
